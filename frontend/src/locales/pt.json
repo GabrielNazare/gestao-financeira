@@ -1,0 +1,85 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "logout": "Sair",
+    "back": "Voltar"
+  },
+  "landing": {
+    "title": "Gestão Financeira Inteligente",
+    "subtitle": "Controle seus gastos com o poder da Inteligência Artificial do Google Gemini.",
+    "description": "Diga adeus às planilhas chatas. Apenas digite o que você comprou e nossa IA organiza, categoriza e analisa seus gastos automaticamente.",
+    "email_placeholder": "Seu e-mail",
+    "password_placeholder": "Sua senha",
+    "name_placeholder": "Seu nome",
+    "login_button": "Entrar",
+    "register_button": "Criar Conta",
+    "google_login_button": "Ou entre com Google",
+    "no_account": "Não tem uma conta?",
+    "has_account": "Já tem uma conta?",
+    "register_link": "Cadastre-se",
+    "login_link": "Faça login",
+    "auth_error": "Não foi possível conectar ao servidor. Verifique se o backend está rodando.",
+    "feature_ai_title": "Classificação por IA",
+    "feature_ai_desc": "O Gemini categoriza seus gastos automaticamente a partir de descrições simples ou extratos.",
+    "feature_security_title": "Segurança Total",
+    "feature_security_desc": "Seus dados são privados e protegidos pela infraestrutura do Google."
+  },
+  "dashboard": {
+    "add_expense": "Adicionar Gasto",
+    "ai_hint": "Digite o que comprou. O Gemini fará o resto.",
+    "description": "Descrição",
+    "amount": "Valor (R$)",
+    "type": "Tipo",
+    "income": "Entrada",
+    "expense": "Saída",
+    "recurring": "Recorrente?",
+    "yes": "Sim",
+    "no": "Não",
+    "upload_hint": "Ou faça upload do seu extrato (PDF/CSV)",
+    "upload_button": "Ler Extrato com IA",
+    "upload_success": "Extrato processado com sucesso! A IA categorizou os seus gastos.",
+    "upload_error": "Ocorreu um erro no servidor ao processar o extrato",
+    "metrics": {
+      "income": "Receitas",
+      "expense": "Despesas",
+      "balance": "Saldo"
+    },
+    "table": {
+      "title": "Planilha de Movimentações",
+      "date": "Data",
+      "description": "Descrição",
+      "type": "Tipo",
+      "category": "Categoria",
+      "amount": "Valor",
+      "actions": "Ações",
+      "empty": "Nenhuma transação encontrada."
+    },
+    "edit_title": "Editar Gasto"
+  },
+  "analytics": {
+    "week_chart": "Gastos por Dia da Semana",
+    "monthly_evolution": "Evolução Mensal",
+    "category_chart": "Despesas por Categoria",
+    "no_data": "Nenhum dado para exibir.",
+    "days": {
+      "sun": "Dom", "mon": "Seg", "tue": "Ter", "wed": "Qua", "thu": "Qui", "fri": "Sex", "sat": "Sáb"
+    },
+    "months": {
+      "jan": "Jan", "feb": "Fev", "mar": "Mar", "apr": "Abr", "may": "Mai", "jun": "Jun",
+      "jul": "Jul", "aug": "Ago", "sep": "Set", "oct": "Out", "nov": "Nov", "dec": "Dez"
+    }
+  },
+  "ai_assistant": {
+    "title": "Consultor Financeiro IA",
+    "placeholder": "Ex: Onde posso economizar mais?",
+    "button": "Perguntar",
+    "thinking": "A IA está analisando seus gastos...",
+    "welcome": "Pergunte-me onde você pode economizar, ou qual categoria está gastando mais!",
+    "error": "Desculpe, ocorreu um erro ao se comunicar com a IA. Tente novamente."
+  }
+}

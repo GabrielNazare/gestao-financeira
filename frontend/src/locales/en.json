@@ -1,0 +1,85 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "logout": "Logout",
+    "back": "Back"
+  },
+  "landing": {
+    "title": "Smart Financial Management",
+    "subtitle": "Control your expenses with the power of Google Gemini AI.",
+    "description": "Say goodbye to boring spreadsheets. Just type what you bought and our AI organizes, categorizes and analyzes your spending automatically.",
+    "email_placeholder": "Your email",
+    "password_placeholder": "Your password",
+    "name_placeholder": "Your name",
+    "login_button": "Sign in",
+    "register_button": "Create Account",
+    "google_login_button": "Or sign in with Google",
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?",
+    "register_link": "Sign up",
+    "login_link": "Sign in",
+    "auth_error": "Could not connect to the server. Please check if the backend is running.",
+    "feature_ai_title": "AI Classification",
+    "feature_ai_desc": "Gemini categorizes your expenses automatically from simple descriptions or bank statements.",
+    "feature_security_title": "Total Security",
+    "feature_security_desc": "Your data is private and protected by Google's infrastructure."
+  },
+  "dashboard": {
+    "add_expense": "Add Expense",
+    "ai_hint": "Type what you bought. Gemini will do the rest.",
+    "description": "Description",
+    "amount": "Amount ($)",
+    "type": "Type",
+    "income": "Income",
+    "expense": "Expense",
+    "recurring": "Recurring?",
+    "yes": "Yes",
+    "no": "No",
+    "upload_hint": "Or upload your statement (PDF/CSV)",
+    "upload_button": "Read Statement with AI",
+    "upload_success": "Statement processed successfully! AI categorized your expenses.",
+    "upload_error": "A server error occurred while processing the statement",
+    "metrics": {
+      "income": "Incomes",
+      "expense": "Expenses",
+      "balance": "Balance"
+    },
+    "table": {
+      "title": "Transactions Sheet",
+      "date": "Date",
+      "description": "Description",
+      "type": "Type",
+      "category": "Category",
+      "amount": "Value",
+      "actions": "Actions",
+      "empty": "No transactions found."
+    },
+    "edit_title": "Edit Expense"
+  },
+  "analytics": {
+    "week_chart": "Expenses by Day of Week",
+    "monthly_evolution": "Monthly Evolution",
+    "category_chart": "Expenses by Category",
+    "no_data": "No data to display.",
+    "days": {
+      "sun": "Sun", "mon": "Mon", "tue": "Tue", "wed": "Wed", "thu": "Thu", "fri": "Fri", "sat": "Sat"
+    },
+    "months": {
+      "jan": "Jan", "feb": "Feb", "mar": "Mar", "apr": "Apr", "may": "May", "jun": "Jun",
+      "jul": "Jul", "aug": "Aug", "sep": "Sep", "oct": "Oct", "nov": "Nov", "dec": "Dec"
+    }
+  },
+  "ai_assistant": {
+    "title": "AI Financial Consultant",
+    "placeholder": "Ex: Where can I save more?",
+    "button": "Ask",
+    "thinking": "AI is analyzing your spending...",
+    "welcome": "Ask me where you can save, or which category you're spending the most!",
+    "error": "Sorry, an error occurred while communicating with the AI. Please try again."
+  }
+}
