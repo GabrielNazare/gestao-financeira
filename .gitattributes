@@ -1,0 +1,8 @@
+# Ignora todos os arquivos HTML nas estatísticas do GitHub
+*.html linguist-detectable=false
+
+# Ignora pastas de relatórios e documentação
+e2e-tests/playwright-report/* linguist-vendored
+coverage/* linguist-vendored
+htmlcov/* linguist-vendored
+docs/* linguist-vendored

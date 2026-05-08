@@ -42,3 +42,7 @@ Thumbs.db
 
 # Security Audit Reports
 dependency-check-report.html
+
+# Test Reports
+playwright-report/
+test-results/
